@@ -36,7 +36,7 @@ def render_header(active: str) -> None:
         cols = st.columns([3, 1, 1, 1.2, 1])
         cols[0].markdown(
             f'<div class="vq-brand">{_logo()}<div><b>Vision Quest</b>'
-            '<small>Computer vision arcade, UCS668 Data Centre Vision</small></div></div>',
+            '<small>Computer vision arcade</small></div></div>',
             unsafe_allow_html=True)
         for col, (key, label) in zip(cols[1:], NAV):
             col.button(label, key=f"nav_{key}", type="primary" if key == active else "secondary",
