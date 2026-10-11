@@ -2,6 +2,15 @@
 
 A timed object-matching arcade game with a computer-vision laboratory attached. Built for **UCS668 Edge AI and Robotics: Data Centre Vision**.
 
+## 🎮 Live Demo
+
+**[🚀 Play Vision Quest](https://vision-quest-qxarfrhk9tafxwfvoed2tz.streamlit.app/)**
+
+Try the interactive object-matching arcade game and explore how a pretrained MobileNetV3-Small model responds to image distortions.
+
+> **Note:** The AI Lab and Webcam Lab demonstrate image classification using a pretrained ImageNet-1K model. The model's predictions are for exploration and are not used to calculate game scores.
+
+---
 Each round names an object (for example "cat"). You pick the one tile that shows it from a mosaic of look-alikes that are rotated, darkened, blurred or noisy. The AI Lab and Webcam Lab run a real pretrained neural network (MobileNetV3-Small, ImageNet-1K) so you can see how it reacts to the same distortions.
 
 ## Features
