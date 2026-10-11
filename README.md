@@ -181,4 +181,4 @@ The pytest suite covers scoring, game state transitions (double-scoring, late cl
 - Krizhevsky, *Learning Multiple Layers of Features from Tiny Images*, 2009 (CIFAR-10). <https://www.cs.toronto.edu/~kriz/cifar.html>
 - Streamlit documentation. <https://docs.streamlit.io>
 
-Licence: MIT (see `LICENSE`).
+
