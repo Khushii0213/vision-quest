@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "best_score": 2178,
+  "best_streak": 6,
+  "rounds_played": 18,
+  "correct_total": 11,
+  "wrong_total": 7,
+  "answered_total": 18,
+  "response_time_total": 63.932,
+  "runs": [
+    {
+      "difficulty": "hard",
+      "score": 2178,
+      "correct": 6,
+      "wrong": 2,
+      "timeouts": 0,
+      "skipped": 0,
+      "rounds_played": 8,
+      "answered": 8,
+      "response_time_total": 28.779,
+      "avg_response_s": 3.6,
+      "best_streak": 6,
+      "end_reason": "out_of_lives",
+      "timestamp": "2026-10-11T09:52:14+00:00"
+    },
+    {
+      "difficulty": "easy",
+      "score": 749,
+      "correct": 5,
+      "wrong": 5,
+      "timeouts": 0,
+      "skipped": 0,
+      "rounds_played": 10,
+      "answered": 10,
+      "response_time_total": 35.153,
+      "avg_response_s": 3.52,
+      "best_streak": 3,
+      "end_reason": "out_of_lives",
+      "timestamp": "2026-10-11T09:57:34+00:00"
+    }
+  ]
+}

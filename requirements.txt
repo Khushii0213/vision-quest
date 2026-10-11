@@ -1,0 +1,7 @@
+# Python 3.11 or 3.12 recommended (3.10 to 3.12 supported).
+# Apple Silicon: the default PyPI wheels of torch/torchvision run on CPU (and MPS); no CUDA needed.
+streamlit>=1.41,<2
+torch>=2.2,<3
+torchvision>=0.17,<1
+pillow>=10.0,<13
+numpy>=1.26,<3
