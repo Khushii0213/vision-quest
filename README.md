@@ -1,6 +1,6 @@
 # Vision Quest
 
-A timed object-matching arcade game with a computer-vision laboratory attached. Built for **UCS668 Edge AI and Robotics: Data Centre Vision**.
+A timed object-matching arcade game with a computer-vision laboratory attached.
 
 ## 🎮 Live Demo
 
